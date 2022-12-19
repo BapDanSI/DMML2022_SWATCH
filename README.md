@@ -14,9 +14,11 @@ Under this file, you will find all our program, from V0.0 to V1.8.3
 
 ### 1. DataProjectV0.0
 This is our first iteration.
-1. only 4 models (no alternativ model like requested)
-2. best model is logistic regression
-3. predictions submitted 11.12.22 at 3pm (with on alternativ KNN prediction, less accurate, at 3:30pm)
+1. discover the data, and discover the project
+2. only 4 models (no alternativ model like requested) -> LogisticRegression, KNN, Decision Tree, Random Forest
+3. Test
+4. No data cleaning
+5. Best model is logistic regression (results below)
 
 ### 2. DataProjectV1.0
 This is our second iteration
