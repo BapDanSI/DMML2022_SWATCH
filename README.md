@@ -10,7 +10,7 @@ Under this file, you will find our 3 core documents:
 <br><br>
 
 ## Code 
-Under this file, you will find all our program, from V0.0 to V1.8.4
+Under this file, you will find all our program, from V0.0 to V1.8.3
 
 ### 1. DataProjectV0.0
 This is our first iteration.
