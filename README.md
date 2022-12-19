@@ -42,6 +42,12 @@ This is our second iteration
 2. best model is X
 3. predictions submitted 11.12.22 at 3pm (with on alternativ KNN prediction, less accurate, at 3:30pm)
 
+### 5. DataProjectV1.8.0
+This is our second iteration
+1. only 4 models (no alternativ model like requested), like the first one.
+2. best model is X
+3. predictions submitted 11.12.22 at 3pm (with on alternativ KNN prediction, less accurate, at 3:30pm)
+
 ### 5. DataProjectV1.8.1
 This is our second iteration
 1. only 4 models (no alternativ model like requested), like the first one.
@@ -55,12 +61,6 @@ This is our second iteration
 3. predictions submitted 11.12.22 at 3pm (with on alternativ KNN prediction, less accurate, at 3:30pm)
 
 ### 5. DataProjectV1.8.3
-This is our second iteration
-1. only 4 models (no alternativ model like requested), like the first one.
-2. best model is X
-3. predictions submitted 11.12.22 at 3pm (with on alternativ KNN prediction, less accurate, at 3:30pm)
-
-### 5. DataProjectV1.8.4
 This is our second iteration
 1. only 4 models (no alternativ model like requested), like the first one.
 2. best model is X
@@ -91,15 +91,15 @@ Under this section, you will find the tables resuming our results from all itera
 ### 5. DataProjectV1.7(sw-dc)
 
 
-### 6. DataProjectV1.8.1
+### 6. DataProjectV1.8.0
 
 
-### 7. DataProjectV1.8.2
+### 7. DataProjectV1.8.1
 
 
-### 8. DataProjectV1.8.3
+### 8. DataProjectV1.8.2
 
 
-### 9. DataProjectV1.8.4
+### 9. DataProjectV1.8.3
 
 ## Link to the explainatory video 
