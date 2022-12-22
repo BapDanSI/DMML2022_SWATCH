@@ -104,9 +104,11 @@ Under this section, you will find the tables resuming our results from all itera
 
 ### 6. DataProjectV1.8.0
 
+<img width="555" alt="Capture d’écran 2022-12-22 à 09 01 42" src="https://user-images.githubusercontent.com/114947004/209086408-10b677e9-23b4-476f-8fe7-1418ee78eb3a.png">
 
 ### 7. DataProjectV1.8.1
 
+<img width="555" alt="Capture d’écran 2022-12-22 à 09 30 38" src="https://user-images.githubusercontent.com/114947004/209091532-5e8eb305-fc8a-4c43-aacd-930d12323478.png">
 
 ### 8. DataProjectV1.8.2
 
