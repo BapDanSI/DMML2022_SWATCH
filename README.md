@@ -1,6 +1,8 @@
 # DataMiningProject
 https://www.kaggle.com/competitions/detecting-french-texts-difficulty-level-2022
 
+Group Members: Baptiste Danichert, Ahmed Abdel Aziz
+
 ## Data 
 Under this file, you will find our 3 core documents: 
 <br><br>
