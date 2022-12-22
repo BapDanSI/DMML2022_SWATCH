@@ -123,3 +123,4 @@ Under this section, you will find the tables resuming our results from all itera
 <img width="555" alt="Capture d’écran 2022-12-22 à 09 40 43" src="https://user-images.githubusercontent.com/114947004/209093583-b1c1e9ec-4d8c-4010-a7e3-4dbc7e984434.png">
 
 ## Link to the explainatory video 
+https://youtu.be/52e7FPGKtBg
