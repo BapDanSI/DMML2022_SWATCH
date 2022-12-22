@@ -29,11 +29,16 @@ This is our 2nd iteration
 
 Regarding our model choices for this part, here are some advantages and disavantages for each: 
 #### SVC
+- Advantages: Effective in high dimensional spaces, still effective in cases where number of dimensions is greater than the number of samples, uses a subset of training points in the decision function (called support vectors), so it is also memory efficient, and finally versatile (different Kernel functions can be specified for the decision function. Common kernels are provided, but it is also possible to specify custom kernels)
+
+- Disadvantages: If the number of features is much greater than the number of samples, avoid over-fitting in choosing Kernel functions and regularization term is crucial. SVMs do not directly provide probability estimates, these are calculated using an expensive five-fold cross-validation (see Scores and probabilities, below).
 
 #### ADA
+- Advantages: Coming to the advantages, Adaboost is less prone to overfitting as the input parameters are not jointly optimized. The accuracy of weak classifiers can be improved by using Adaboost. Nowadays, Adaboost is being used to classify text and images rather than binary classification problems.
+- Disadvantages: The main disadvantage of Adaboost is that it needs a quality dataset. Noisy data and outliers have to be avoided before adopting an Adaboost algorithm.
 
 #### MLPC
-
+- Advantages: MLP’s can be applied to complex non-linear problems, and it also works well with large input data with a relatively faster performance. The algorithm tends to achieve the same accuracy ratio even with smaller data.
 
 ### 3. DataProjectV1.5
 This is our 3rd iteration
