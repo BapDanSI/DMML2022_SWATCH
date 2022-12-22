@@ -1,6 +1,7 @@
 # DataMiningProject
 https://www.kaggle.com/competitions/detecting-french-texts-difficulty-level-2022
 
+Group Name: SWATCH
 Group Members: Baptiste Danichert, Ahmed Abdel Aziz
 
 ## Data 
